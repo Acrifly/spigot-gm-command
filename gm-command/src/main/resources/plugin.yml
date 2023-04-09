@@ -1,0 +1,12 @@
+name: gm-command
+version: '${project.version}'
+main: com.acrifly.acrifly.Acrifly
+api-version: 1.19
+commands:
+  gm:
+
+
+permissions:
+  gm_command.permission:
+    description: GM Command Berechtigung
+    default: op
